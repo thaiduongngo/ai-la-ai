@@ -1,5 +1,6 @@
-#ai-la-ai
+# ai-la-ai
 ## Install Ollama
+https://ollama.com/
 https://github.com/ollama/ollama/blob/main/docs/README.md
 ## Install Miniconda
 https://docs.anaconda.com/miniconda/
